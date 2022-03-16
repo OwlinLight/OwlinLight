@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I'm...
 
-- Actively looking for job opportunities in U.S. (intern of full-time). Feel free to contact me.
-- Expected to graduate from the Ohio State University as Computer Science and Engineering B.S. in Winter 2023
+- Actively looking for job opportunities in U.S. (intern of full-time).
+- Pursuing B.S. in Computer Science and Engineering at the Ohio State University.
+- Expected to graduate in Winter 2023.
 
-More infomation on my [**personal website**](https://owlinlight.github.io/) 
+More contact infomation on my [**personal website**](https://owlinlight.github.io/) 
