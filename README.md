@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **OwlinLight/OwlinLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm **Sitao Tong**.
+
+I'm...
+
+- Actively looking for job opportunities in U.S. (intern of full-time). Feel free to contact me.
+- Expected to graduate from the Ohio State University as Computer Science and Engineering B.S. in Winter 2023
+
+More infomation on my [**personal website**](https://owlinlight.github.io/) 
