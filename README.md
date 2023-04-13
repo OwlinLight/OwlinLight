@@ -21,4 +21,4 @@ I'm...
 - Pursuing B.S. in Computer Science and Engineering at the Ohio State University.
 - Expected to graduate in Winter 2023.
 
-More contact infomation on my [**personal website**](http://charlietong.netlify.app/) 
+More contact infomation and _⚡Detailed Project Info⚡_ on my [**personal website**](http://charlietong.netlify.app/) 
