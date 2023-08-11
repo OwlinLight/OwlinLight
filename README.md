@@ -22,3 +22,5 @@ I'm...
 - Expected to graduate in Winter 2023.
 
 ### More Organized Project Info on my 🌏[**personal website**](http://charlietong.netlify.app/) 
+
+learning [Rust](https://github.com/OwlinLight/rustling)
