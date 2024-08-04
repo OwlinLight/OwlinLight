@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm **Sitao Tong**.
+## Hi, I'm Charlie.
 
 I'm...
 
