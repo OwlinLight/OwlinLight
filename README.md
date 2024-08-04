@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 
 I'm...
 
-- Actively looking for job opportunities in U.S. (intern or full-time).
-- B.S. in Computer Science and Engineering at the Ohio State University.
-- Graduated in December 2023 🎉.
-
-### More Project Info on my 🌏[**personal website**](http://charlietong.netlify.app/) 
-
 learning [Rust](https://github.com/OwlinLight/rustling)
